@@ -6,7 +6,8 @@ session_start();
 require_once("controle/html/head.php");
 
 ?>
-<body>
+<body>	
+	<!--Testao-->
 	<!-- menu -->
 	<?php require_once("controle/html/menu.php"); ?>
 	<!-- /menu -->
